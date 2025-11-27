@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function MALVIN_XD_PAIR_CODE() {
+    async function XEMA_XD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -91,7 +91,7 @@ https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/WeedTech/XEMA-XD
+https://github.com/WeedTech/malvin-pair 
 
 ——————
 
@@ -126,7 +126,7 @@ https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/WeedTech/XEMA-XD
+https://github.com/WeedTech/malvin-pair 
 
 ——————
 
