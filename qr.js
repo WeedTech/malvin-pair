@@ -86,7 +86,9 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
 
 *💻 Source Code:*  
-Fork & explore the project on GitHub:https://github.com/WeedTech/XEMA-XD
+Fork & explore the project on GitHub:
+
+https://github.com/WeedTech/malvin-pair 
 
 ——————
 
@@ -121,7 +123,7 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V
 
 *💻 Source Code:*  
-Fork & explore the project on GitHub:  https://github.com/WeedTech/XEMA-XD
+Fork & explore the project on GitHub:  https://github.com/WeedTech/malvin-pair 
 
 > *© Powered by Xema King*
 Stay cool and hack smart. ✌🏻*`;
